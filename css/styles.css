@@ -1,0 +1,12 @@
+:root {
+    --primary-text-color: rgba(16, 9, 9, 0.8);
+    --title-text-color: #000000;
+    --accent-color: orange;
+    --primary-white-color: #ffffff;
+}
+.contacts {
+color: #434455;
+}
+.contacts-mail{
+    color: #434455;
+}
